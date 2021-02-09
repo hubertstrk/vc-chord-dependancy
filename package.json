@@ -1,0 +1,25 @@
+{
+  "name": "vc-chord-dependancy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubertstrk/vc-chord-dependancy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubertstrk/vc-chord-dependancy/issues"
+  },
+  "homepage": "https://github.com/hubertstrk/vc-chord-dependancy#readme",
+  "dependencies": {
+    "acorn": "^8.0.4",
+    "acron": "^1.0.5",
+    "fs-extra": "^9.0.1",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
